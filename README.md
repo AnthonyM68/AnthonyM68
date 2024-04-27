@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthony&label=Profile%20views&color=0e75b6&style=flat" alt="anthony" /> </p>
 
 - SQL POO **Cinema**
+- SQL POO **Forum**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
