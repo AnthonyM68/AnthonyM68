@@ -54,10 +54,10 @@ Feel free to check out my work and connect with me!
 
 
 ### 🚀 Next github C language and collaboration!
-
+![Logic-68](https://github.com/logic-68) Account Github
 [![GitHub Followers](https://img.shields.io/github/followers/logic-68?label=Follow&style=social)](https://github.com/logic-68)
 
- ![C](https://img.shields.io/badge/C-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-00599C)
+![C](https://img.shields.io/badge/C-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-00599C)
 ![C++](https://img.shields.io/badge/C%2B%2B-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-00599C)
 
 ---
