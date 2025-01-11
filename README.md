@@ -9,9 +9,9 @@ I am always eager to learn, create, and collaborate on exciting projects.</h3>
 
 ### 🔥 Featured Projects
 
-- **[Fiverr Junior](https://github.com/AnthonyM68/fiverrjr):** Fiverr Junior is an innovative platform designed to connect junior developers with clients seeking web development skills. Created to offer career growth opportunities to early-career developers, Fiverr Junior facilitates access to interesting projects while allowing clients to find affordable and effective solutions for their technical needs.
-
-_Check out my [repositories](https://github.com/yourusername?tab=repositories) for more!_
+- **[Logic68 Consoles System]([https://github.com/AnthonyM68/fiverrjr](https://logic68consolessystem.fr/):**  is my current development project, showcasing a live website hosted at logic68consolessystem.fr. The site is dedicated to providing services related to console repairs and peripheral equipment.
+Currently, the website is under active construction as part of my ongoing development journey. Updates and new features are being implemented regularly, making it an evolving showcase of my skills in web development and project management.
+Feel free to explore the live site or check out the repository to see the progress and contributions to this exciting project!
 
 ### 📊 GitHub Stats
 
