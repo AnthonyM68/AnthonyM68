@@ -9,7 +9,7 @@ I am always eager to learn, create, and collaborate on exciting projects.</h3>
 
 ### 🔥 Featured Projects
 
-- **[Logic68 Consoles System]([https://github.com/AnthonyM68/fiverrjr](https://logic68consolessystem.fr/):**  is my current development project, showcasing a live website hosted at logic68consolessystem.fr. The site is dedicated to providing services related to console repairs and peripheral equipment.
+- **[Logic68 Consoles System]((https://logic68consolessystem.fr/):**  is my current development project, showcasing a live website hosted at logic68consolessystem.fr. The site is dedicated to providing services related to console repairs and peripheral equipment.
 Currently, the website is under active construction as part of my ongoing development journey. Updates and new features are being implemented regularly, making it an evolving showcase of my skills in web development and project management.
 Feel free to explore the live site or check out the repository to see the progress and contributions to this exciting project!
 
