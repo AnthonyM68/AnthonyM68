@@ -21,6 +21,7 @@ _Check out my [repositories](https://github.com/yourusername?tab=repositories) f
 </p>
 
 ### 🏆 Awards & Certifications
+- [BAC +2 Dew Web & Web Mobile](https://github.com/AnthonyM68/docs_img/blob/main/titre/bac_II_Dev_Web_and_Web_%20Mobile.jpg) Title
 
 - [EPFL Certification C++](https://www.epfl.ch/fr/) - Example Certification Body
 - [MOOK ANSSI](https://cyber.gouv.fr/) - Example Organization
