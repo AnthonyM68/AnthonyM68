@@ -28,6 +28,12 @@ Feel free to explore the live site or check out the repository to see the progre
 - [🌱 Mooc Git](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_git.pdf) - Versionnement et collaboration
 - [🏆 Certification EPFL C++](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/epfl.pdf) - Langage de programmation avancé
 
+### 🎮 Projects & Technical Achievements:
+
+- 🕹️ **PS5 Webkit 4.03** – Exploration of system frameworks.
+- 💾 **PS5 BR 6.50** – Analysis of development environments.
+- 🎮 **Nintendo Switch v2 (Firmware 19.0.1)** – Expertise with both standard and OLED models.
+- 🎮 **Nintendo Switch Oled (Firmware 19.0.1)** – Expertise with both standard and OLED models.
 
 ### 🚀 Let's Connect and Collaborate!
 
