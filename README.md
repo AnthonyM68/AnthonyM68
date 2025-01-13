@@ -21,11 +21,13 @@ Feel free to explore the live site or check out the repository to see the progre
 </p>
 
 ### 🏆 Awards & Certifications
-- [BAC +2 Dew Web & Web Mobile](https://github.com/AnthonyM68/AnthonyM68/blob/main/titre/bac_II_Dev_Web_and_Web_%20Mobile.jpg) -  Diploma of country
-- [Openclassrooms Certification Git](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_git.pdf) - Certification
-- [Openclassrooms Certification React](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_react.pdf) - Certification
-- [EPFL Certification C++](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/epfl.pdf) - Certification (https://www.epfl.ch/fr/)
-- [MOOK ANSSI](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/anssi.pdf) - Organization (https://cyber.gouv.fr/) 
+
+🎓 Formations & Certifications :
+🎓 Bac + 2 Dev Web (https://github.com/AnthonyM68/AnthonyM68/blob/main/titre/bac_II_Dev_Web_and_Web_%20Mobile.jpg)
+📘 Mooc ANSSI (Sécurité numérique et cyber-protection) (https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/anssi.pdf)
+⚛️ Mooc REACT (Développement front-end moderne) (https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_react.pdf) 
+🌱 Mooc Git (Versionnement et collaboration) (https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_git.pdf)
+🏆 Certification EPFL C++ (Langage de programmation avancé) (https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/epfl.pdf)
 
 ### 🚀 Let's Connect and Collaborate!
 
