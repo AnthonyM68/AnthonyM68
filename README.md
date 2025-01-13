@@ -23,11 +23,11 @@ Feel free to explore the live site or check out the repository to see the progre
 ### 🏆 Awards & Certifications
 
 🎓 Formations & Certifications :
-  [🎓 Bac + 2 Dev Web] (https://github.com/AnthonyM68/AnthonyM68/blob/main/titre/bac_II_Dev_Web_and_Web_%20Mobile.jpg)
-📘 Mooc ANSSI (Sécurité numérique et cyber-protection) (https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/anssi.pdf)
-⚛️ Mooc REACT (Développement front-end moderne) (https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_react.pdf) 
-🌱 Mooc Git (Versionnement et collaboration) (https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_git.pdf)
-🏆 Certification EPFL C++ (Langage de programmation avancé) (https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/epfl.pdf)
+  [🎓 Bac + 2 Dev Web](https://github.com/AnthonyM68/AnthonyM68/blob/main/titre/bac_II_Dev_Web_and_Web_%20Mobile.jpg) Diploma
+[📘 Mooc ANSSI](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/anssi.pdf)Sécurité numérique et cyber-protection
+[⚛️ Mooc REACT](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_react.pdf) Développement front-end moderne
+[🌱 Mooc Git](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_git.pdf) Versionnement et collaboration
+[🏆 Certification EPFL C++](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/epfl.pdf) Langage de programmation avancé
 
 ### 🚀 Let's Connect and Collaborate!
 
