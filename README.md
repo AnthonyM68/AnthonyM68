@@ -47,22 +47,14 @@ Feel free to check out my work and connect with me!
 ### My language web
 ![HTML](https://img.shields.io/badge/HTML-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-E34F26)
 ![CSS](https://img.shields.io/badge/CSS-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-1572B6)
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-FFFF00)
 ![React](https://img.shields.io/badge/React-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-61DAFB)
-
 ![Node.js](https://img.shields.io/badge/Node.js-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-339933)
-
 ![PHP](https://img.shields.io/badge/PHP-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-787CB5)
-
-
 ![MySQL](https://img.shields.io/badge/MySQL-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-4479A1)
 
-
-
 ### 🚀 Next github C language and collaboration!
-- **[Logic-68](https://github.com/logic-68):**  - Account Github)
+- **[Logic-68](https://github.com/logic-68):**  - Account Github
 [![GitHub Followers](https://img.shields.io/github/followers/logic-68?label=Follow&style=social)](https://github.com/logic-68)
 
 ![C](https://img.shields.io/badge/C-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-00599C)
