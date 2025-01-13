@@ -23,7 +23,7 @@ Feel free to explore the live site or check out the repository to see the progre
 ### 🏆 Awards & Certifications
 
 🎓 Formations & Certifications :
-🎓 Bac + 2 Dev Web (https://github.com/AnthonyM68/AnthonyM68/blob/main/titre/bac_II_Dev_Web_and_Web_%20Mobile.jpg)
+  [🎓 Bac + 2 Dev Web] (https://github.com/AnthonyM68/AnthonyM68/blob/main/titre/bac_II_Dev_Web_and_Web_%20Mobile.jpg)
 📘 Mooc ANSSI (Sécurité numérique et cyber-protection) (https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/anssi.pdf)
 ⚛️ Mooc REACT (Développement front-end moderne) (https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_react.pdf) 
 🌱 Mooc Git (Versionnement et collaboration) (https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_git.pdf)
