@@ -14,7 +14,8 @@ Currently, the website is under active construction as part of my ongoing develo
 Feel free to explore the live site or check out the repository to see the progress and contributions to this exciting project!
 
 ### 📊 GitHub Stats
-https://img.shields.io/github/commit-activity/m/AnthonyM68?label=Commits&style=flat-square
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnthonyM68&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
 
 
 <p align="center">
