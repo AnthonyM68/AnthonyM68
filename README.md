@@ -14,14 +14,9 @@ Currently, the website is under active construction as part of my ongoing develo
 Feel free to explore the live site or check out the repository to see the progress and contributions to this exciting project!
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyM68&theme=radical" alt="GitHub Streak Stats" />
-
-
-
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyM68&show_icons=true&theme=radical&cache_seconds=60" alt="github stats" style="display: inline-block; margin-right: 10px;" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyM68&layout=compact&theme=radical&cache_seconds=60" alt="top languages" style="display: inline-block;" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyM68&theme=radical" alt="GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyM68&layout=compact&theme=radical&cache_seconds=60" alt="top languages" style="display: inline-block;" />
 </p>
 
 ### 🎓 Formations & Certifications :
