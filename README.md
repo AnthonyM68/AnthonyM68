@@ -16,8 +16,6 @@ Feel free to explore the live site or check out the repository to see the progre
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyM68&theme=radical" alt="GitHub Streak Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-repos?username=AnthonyM68&theme=radical&cache_seconds=60" alt="top repositories" style="display: inline-block;" />
-
 </p>
 
 ### 🎓 Formations & Certifications :
