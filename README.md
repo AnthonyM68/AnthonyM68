@@ -7,7 +7,7 @@ I am always eager to learn, create, and collaborate on exciting projects.</h3>
 
 [![GitHub Followers](https://img.shields.io/github/followers/AnthonyM68?label=Follow&style=social)](https://github.com/AnthonyM68)
 
-### 🔥 Featured Projects
+## 🔥 Featured Projects
 
 - **[Logic68 Consoles System]((https://logic68consolessystem.fr/):**  is my current development project, showcasing a live website hosted at logic68consolessystem.fr. The site is dedicated to providing services related to console repairs and peripheral equipment.
 Currently, the website is under active construction as part of my ongoing development journey. Updates and new features are being implemented regularly, making it an evolving showcase of my skills in web development and project management.
@@ -18,7 +18,7 @@ Feel free to explore the live site or check out the repository to see the progre
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyM68&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
-### 🎓 Formations & Certifications :
+## 🎓 Formations & Certifications :
 
 - [🎓 Bac + 2 Dev Web](https://github.com/AnthonyM68/AnthonyM68/blob/main/titre/bac_II_Dev_Web_and_Web_%20Mobile.jpg) - Diploma
 - [📘 Mooc ANSSI](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/anssi.pdf) - Sécurité numérique et cyber-protection
@@ -26,7 +26,7 @@ Feel free to explore the live site or check out the repository to see the progre
 - [🌱 Mooc Git](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/certificat_git.pdf) - Versionnement et collaboration
 - [🏆 Certification EPFL C++](https://github.com/AnthonyM68/AnthonyM68/blob/main/mooc/epfl.pdf) - Langage de programmation avancé
 
-### 🎮 Projects & Technical Achievements:
+## 🎮 Projects & Technical Achievements:
 
 - 🕹️ **PS5 Webkit 4.03** – Exploration of system frameworks.
 - 💾 **PS5 BR 6.50** – Analysis of development environments.
